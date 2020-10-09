@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuizChat/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/QuizChat/static/js/main.c29c8b71.chunk.js",
+    "main.js.map": "/QuizChat/static/js/main.c29c8b71.chunk.js.map",
+    "runtime-main.js": "/QuizChat/static/js/runtime-main.3bfbd655.js",
+    "runtime-main.js.map": "/QuizChat/static/js/runtime-main.3bfbd655.js.map",
+    "static/js/2.fbf4146e.chunk.js": "/QuizChat/static/js/2.fbf4146e.chunk.js",
+    "static/js/2.fbf4146e.chunk.js.map": "/QuizChat/static/js/2.fbf4146e.chunk.js.map",
+    "index.html": "/QuizChat/index.html",
+    "precache-manifest.709110b89bbd5d242cb81df6c789843e.js": "/QuizChat/precache-manifest.709110b89bbd5d242cb81df6c789843e.js",
+    "service-worker.js": "/QuizChat/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/QuizChat/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.fbf4146e.chunk.js.LICENSE.txt": "/QuizChat/static/js/2.fbf4146e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bfbd655.js",
+    "static/js/2.fbf4146e.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.c29c8b71.chunk.js"
+  ]
+}
